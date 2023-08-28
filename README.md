@@ -50,7 +50,8 @@
 
 **Services**
 
-![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/f83f675d-e38e-4530-9622-ab417029e723)
+
+![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/6cd11703-9a2e-495d-a789-e92352f10e20)
 
 
 ![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/18c04ccc-3f50-41a5-b5bc-c198f8200717)
