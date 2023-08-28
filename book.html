@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Appointment</title>
+    <link rel="stylesheet" href="appoint.css">
+</head>
+<body>
+    <div class="logo"><h1>Hair Flair</h1></div>
+    <div class="contact-box">
+        <div class="contact-heading"> <h3>Book Appointment</h3> </div>
+        <form
+        action="https://formspree.io/f/xnqkdjok"
+        method="POST"
+      >
+            <input type="text" name="username" class="input-field" placeholder="Your Name" required>
+            <input type="email" name="email" class="input-field" placeholder="Your Email" required autocomplete="off">
+            <input type="text" class="input-field" name="subject" placeholder="Specify Service "required>
+            <textarea type="text" name="message" class="input-field textarea-field" placeholder="Your Address" required min="10"></textarea>
+            <button type="submit" class="btn">Send Mail</button>
+            <button onclick="location.href = 'index.html'"  class="btn" >Home</button>
+        </form>
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,95 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+
+
+body{
+background-color: efefef;
+font-family: 'Poppins';
+background: linear-gradient(rgba(0,0,0,0.5),#009688),
+url(images/bg-banner.jpg);
+background-size: cover;   
+background-position: center;
+height:100vh; 
+}
+
+.logo h1{
+    font-size:80px;
+    /* font-weight: bold; */
+    width:350px;
+    position:absolute;
+    top:4%;
+    left:2%;
+    color:#fff;  
+}
+.contact-box{
+    width:500px;
+    background-color: #ffff;
+    box-shadow: 0 0 20px 0 #999;
+    top:50%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    position:absolute;
+    border-radius: 20px;
+
+
+}
+.contact-heading{
+    margin-left:  50px;
+    margin-top: 25px;
+    font-family: monospace;
+    font-size: 50px;
+    color:#009688;
+   
+
+    
+}
+
+form{
+    margin:40px;
+
+}
+
+.input-field{
+    width: 400px;
+    height:40px;
+    margin-top:20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid #777;
+    border-radius: 14px;
+    outline: none;
+
+
+}
+.textarea-field{
+    height:150px;
+    padding-top: 10px;
+}
+
+.btn{
+    border-radius: 20px;
+    color:white;   
+    margin: 18px 20px;
+    padding:10px;
+    width: 150px;
+    background-color:#009688 ;
+    font-size:18px;
+    border:none;
+    cursor:pointer;
+    transition: 0.3s;
+   
+
+}
+
+.btn:hover
+{
+border: 2px solid #009688;
+background-color: #e8eeed;
+color:#009688;
+transform: translateY(-5px);    
+}
