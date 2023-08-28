@@ -17,18 +17,34 @@
 **Interactivity:**
 "To add interactivity, I implemented a JavaScript function that enables users to open and close the navigation menu. When the user clicks the menu icon, the navigation menu slides into view, enhancing the usability of the website."
 
-**Features:**
-"The website's features include:
-
-A captivating banner showcasing the salon's logo, name, and a 'Book Now' call-to-action.
-An easy-to-navigate menu that allows users to jump to different sections.
-A 'Why Choose Us?' section highlighting the benefits of experienced stylists, online booking, and affordable pricing.
-A 'Services' section showcasing the salon's offerings with images and descriptions.
-A 'Client Feedback' area displaying testimonials to build trust and credibility.
-A 'Contact' section in the footer providing opening hours, location, and contact information."
-
 **Online Booking Form:**
 "I also created a separate 'Book Appointment' page that features a form where users can submit appointment requests. The form uses Formspree to send emails to the salon's address, streamlining the booking process."
 
 **ScreenShots**
-![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/f4d59b8e-3774-4b95-84f7-1ccb71a59d27)
+
+**Banner**
+![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/2c50bfd3-fcd0-4780-928b-dfb6d28b22a0)
+
+
+**Features**
+![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/1165dc4d-9e38-4132-8046-c193fd4bbcb1)
+
+
+**Services**
+![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/f83f675d-e38e-4530-9622-ab417029e723)
+
+![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/18c04ccc-3f50-41a5-b5bc-c198f8200717)
+
+**Appointment Section**
+![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/dd886ff3-f45f-4924-a029-2e675d61f555)
+
+
+**FeedBack**
+![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/0d4734bc-5d97-4fe8-9e8a-466e618c7e17)
+
+
+**Contact Section**
+![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/4fe72ed2-1922-4419-bf68-a316dd0e5d13)
+
+
+
