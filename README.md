@@ -43,7 +43,9 @@
 
 
 **Features**
+
 ![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/1165dc4d-9e38-4132-8046-c193fd4bbcb1)
+
 
 
 **Services**
