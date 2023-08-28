@@ -37,15 +37,15 @@
 
 **Banner**
 
-
-
+![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/1165dc4d-9e38-4132-8046-c193fd4bbcb1)
 
 
 
 **Features**
 
-![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/1165dc4d-9e38-4132-8046-c193fd4bbcb1)
 
+
+![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/679246e9-f67c-47aa-aa20-c83784241863)
 
 
 **Services**
