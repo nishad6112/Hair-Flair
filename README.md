@@ -37,7 +37,7 @@
 
 **Banner**
 
-![image](https://github.com/nishad6112/Hair-Flair/assets/91268115/2c50bfd3-fcd0-4780-928b-dfb6d28b22a0)
+
 
 
 
